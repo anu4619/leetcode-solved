@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anu4619/leetcode-solved/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/anu4619/leetcode-solved/tree/master/0016-3sum-closest) |
 | [0456-132-pattern](https://github.com/anu4619/leetcode-solved/tree/master/0456-132-pattern) |
 | [0859-design-circular-deque](https://github.com/anu4619/leetcode-solved/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/anu4619/leetcode-solved/tree/master/0860-design-circular-queue) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anu4619/leetcode-solved/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/anu4619/leetcode-solved/tree/master/0016-3sum-closest) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anu4619/leetcode-solved/tree/master/2215-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -122,4 +124,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anu4619/leetcode-solved/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/anu4619/leetcode-solved/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/anu4619/leetcode-solved/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
