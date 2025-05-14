@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anu4619/leetcode-solved/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anu4619/leetcode-solved/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anu4619/leetcode-solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2048-build-array-from-permutation](https://github.com/anu4619/leetcode-solved/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anu4619/leetcode-solved/tree/master/2215-finding-3-digit-even-numbers) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/anu4619/leetcode-solved/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Dynamic Programming
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/anu4619/leetcode-solved/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/anu4619/leetcode-solved/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
