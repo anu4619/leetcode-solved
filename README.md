@@ -18,16 +18,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/anu4619/leetcode-solved/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/anu4619/leetcode-solved/tree/master/0456-132-pattern) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anu4619/leetcode-solved/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anu4619/leetcode-solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/anu4619/leetcode-solved/tree/master/0316-remove-duplicate-letters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anu4619/leetcode-solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/anu4619/leetcode-solved/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/anu4619/leetcode-solved/tree/master/0456-132-pattern) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anu4619/leetcode-solved/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anu4619/leetcode-solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/anu4619/leetcode-solved/tree/master/0316-remove-duplicate-letters) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anu4619/leetcode-solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/anu4619/leetcode-solved/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Counting
