@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anu4619/leetcode-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/anu4619/leetcode-solved/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/anu4619/leetcode-solved/tree/master/0006-zigzag-conversion) |
 | [0316-remove-duplicate-letters](https://github.com/anu4619/leetcode-solved/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/anu4619/leetcode-solved/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anu4619/leetcode-solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
