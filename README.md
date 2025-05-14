@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/anu4619/leetcode-solved/tree/master/0456-132-pattern) |
+| [0859-design-circular-deque](https://github.com/anu4619/leetcode-solved/tree/master/0859-design-circular-deque) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anu4619/leetcode-solved/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anu4619/leetcode-solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anu4619/leetcode-solved/tree/master/2215-finding-3-digit-even-numbers) |
@@ -80,4 +81,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/anu4619/leetcode-solved/tree/master/2215-finding-3-digit-even-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/anu4619/leetcode-solved/tree/master/0859-design-circular-deque) |
+## Design
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/anu4619/leetcode-solved/tree/master/0859-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/anu4619/leetcode-solved/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
