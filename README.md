@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/anu4619/leetcode-solved/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/anu4619/leetcode-solved/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/anu4619/leetcode-solved/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/anu4619/leetcode-solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/anu4619/leetcode-solved/tree/master/0051-n-queens) |
 | [0456-132-pattern](https://github.com/anu4619/leetcode-solved/tree/master/0456-132-pattern) |
 | [0859-design-circular-deque](https://github.com/anu4619/leetcode-solved/tree/master/0859-design-circular-deque) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/anu4619/leetcode-solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0456-132-pattern](https://github.com/anu4619/leetcode-solved/tree/master/0456-132-pattern) |
 ## Ordered Set
 |  |
