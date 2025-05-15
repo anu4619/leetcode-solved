@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/anu4619/leetcode-solved/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/anu4619/leetcode-solved/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anu4619/leetcode-solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/anu4619/leetcode-solved/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anu4619/leetcode-solved/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Monotonic Stack
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anu4619/leetcode-solved/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/anu4619/leetcode-solved/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anu4619/leetcode-solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/anu4619/leetcode-solved/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## String
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/anu4619/leetcode-solved/tree/master/0316-remove-duplicate-letters) |
 | [0868-push-dominoes](https://github.com/anu4619/leetcode-solved/tree/master/0868-push-dominoes) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/anu4619/leetcode-solved/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/anu4619/leetcode-solved/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anu4619/leetcode-solved/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anu4619/leetcode-solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/anu4619/leetcode-solved/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anu4619/leetcode-solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/anu4619/leetcode-solved/tree/master/0051-n-queens) |
+## Game Theory
+|  |
+| ------- |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/anu4619/leetcode-solved/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 <!---LeetCode Topics End-->
