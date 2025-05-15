@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anu4619/leetcode-solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2048-build-array-from-permutation](https://github.com/anu4619/leetcode-solved/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anu4619/leetcode-solved/tree/master/2215-finding-3-digit-even-numbers) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anu4619/leetcode-solved/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/anu4619/leetcode-solved/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Dynamic Programming
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/anu4619/leetcode-solved/tree/master/0868-push-dominoes) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anu4619/leetcode-solved/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anu4619/leetcode-solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anu4619/leetcode-solved/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anu4619/leetcode-solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/anu4619/leetcode-solved/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Stack
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/anu4619/leetcode-solved/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/anu4619/leetcode-solved/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anu4619/leetcode-solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anu4619/leetcode-solved/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/anu4619/leetcode-solved/tree/master/0316-remove-duplicate-letters) |
 | [0868-push-dominoes](https://github.com/anu4619/leetcode-solved/tree/master/0868-push-dominoes) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/anu4619/leetcode-solved/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anu4619/leetcode-solved/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anu4619/leetcode-solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/anu4619/leetcode-solved/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Counting
