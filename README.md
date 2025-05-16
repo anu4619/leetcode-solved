@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/anu4619/leetcode-solved/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/anu4619/leetcode-solved/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/anu4619/leetcode-solved/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/anu4619/leetcode-solved/tree/master/0077-combinations) |
 ## Game Theory
 |  |
 | ------- |
