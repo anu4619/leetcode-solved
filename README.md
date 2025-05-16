@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/anu4619/leetcode-solved/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/anu4619/leetcode-solved/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/anu4619/leetcode-solved/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/anu4619/leetcode-solved/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anu4619/leetcode-solved/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/anu4619/leetcode-solved/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anu4619/leetcode-solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anu4619/leetcode-solved/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/anu4619/leetcode-solved/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anu4619/leetcode-solved/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/anu4619/leetcode-solved/tree/master/0074-search-a-2d-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anu4619/leetcode-solved/tree/master/1628-count-submatrices-with-all-ones) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/anu4619/leetcode-solved/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/anu4619/leetcode-solved/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anu4619/leetcode-solved/tree/master/0059-spiral-matrix-ii) |
 | [2048-build-array-from-permutation](https://github.com/anu4619/leetcode-solved/tree/master/2048-build-array-from-permutation) |
 ## Two Pointers
