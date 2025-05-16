@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/anu4619/leetcode-solved/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/anu4619/leetcode-solved/tree/master/0048-rotate-image) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anu4619/leetcode-solved/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/anu4619/leetcode-solved/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/anu4619/leetcode-solved/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/anu4619/leetcode-solved/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anu4619/leetcode-solved/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0043-multiply-strings](https://github.com/anu4619/leetcode-solved/tree/master/0043-multiply-strings) |
 | [0316-remove-duplicate-letters](https://github.com/anu4619/leetcode-solved/tree/master/0316-remove-duplicate-letters) |
 | [0868-push-dominoes](https://github.com/anu4619/leetcode-solved/tree/master/0868-push-dominoes) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/anu4619/leetcode-solved/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/anu4619/leetcode-solved/tree/master/0043-multiply-strings) |
 | [2048-build-array-from-permutation](https://github.com/anu4619/leetcode-solved/tree/master/2048-build-array-from-permutation) |
 ## Two Pointers
 |  |
