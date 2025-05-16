@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/anu4619/leetcode-solved/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/anu4619/leetcode-solved/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anu4619/leetcode-solved/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/anu4619/leetcode-solved/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/anu4619/leetcode-solved/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/anu4619/leetcode-solved/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anu4619/leetcode-solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anu4619/leetcode-solved/tree/master/0005-longest-palindromic-substring) |
+| [0064-minimum-path-sum](https://github.com/anu4619/leetcode-solved/tree/master/0064-minimum-path-sum) |
 | [0868-push-dominoes](https://github.com/anu4619/leetcode-solved/tree/master/0868-push-dominoes) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anu4619/leetcode-solved/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anu4619/leetcode-solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anu4619/leetcode-solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anu4619/leetcode-solved/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anu4619/leetcode-solved/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/anu4619/leetcode-solved/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/anu4619/leetcode-solved/tree/master/0074-search-a-2d-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anu4619/leetcode-solved/tree/master/1628-count-submatrices-with-all-ones) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/anu4619/leetcode-solved/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
