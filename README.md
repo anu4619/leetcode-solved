@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/anu4619/leetcode-solved/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anu4619/leetcode-solved/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1397-search-suggestions-system](https://github.com/anu4619/leetcode-solved/tree/master/1397-search-suggestions-system) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anu4619/leetcode-solved/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anu4619/leetcode-solved/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anu4619/leetcode-solved/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anu4619/leetcode-solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anu4619/leetcode-solved/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/anu4619/leetcode-solved/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1397-search-suggestions-system](https://github.com/anu4619/leetcode-solved/tree/master/1397-search-suggestions-system) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anu4619/leetcode-solved/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Ordered Set
 |  |
 | ------- |
