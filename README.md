@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/anu4619/leetcode-solved/tree/master/2215-finding-3-digit-even-numbers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anu4619/leetcode-solved/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anu4619/leetcode-solved/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/anu4619/leetcode-solved/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/anu4619/leetcode-solved/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Dynamic Programming
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/anu4619/leetcode-solved/tree/master/1397-search-suggestions-system) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/anu4619/leetcode-solved/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anu4619/leetcode-solved/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/anu4619/leetcode-solved/tree/master/3194-find-words-containing-character) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anu4619/leetcode-solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/anu4619/leetcode-solved/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Counting
