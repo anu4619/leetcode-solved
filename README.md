@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/anu4619/leetcode-solved/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anu4619/leetcode-solved/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/anu4619/leetcode-solved/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/anu4619/leetcode-solved/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anu4619/leetcode-solved/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/anu4619/leetcode-solved/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anu4619/leetcode-solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/anu4619/leetcode-solved/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anu4619/leetcode-solved/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/anu4619/leetcode-solved/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/anu4619/leetcode-solved/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anu4619/leetcode-solved/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anu4619/leetcode-solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anu4619/leetcode-solved/tree/master/1628-count-submatrices-with-all-ones) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anu4619/leetcode-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anu4619/leetcode-solved/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/anu4619/leetcode-solved/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/anu4619/leetcode-solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anu4619/leetcode-solved/tree/master/0349-intersection-of-two-arrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anu4619/leetcode-solved/tree/master/2215-finding-3-digit-even-numbers) |
