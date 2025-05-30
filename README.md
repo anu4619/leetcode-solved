@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/anu4619/leetcode-solved/tree/master/0021-merge-two-sorted-lists) |
 | [0859-design-circular-deque](https://github.com/anu4619/leetcode-solved/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/anu4619/leetcode-solved/tree/master/0860-design-circular-queue) |
 ## Design
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/anu4619/leetcode-solved/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/anu4619/leetcode-solved/tree/master/0050-powx-n) |
 ## Heap (Priority Queue)
 |  |
