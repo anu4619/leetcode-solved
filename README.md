@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anu4619/leetcode-solved/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/anu4619/leetcode-solved/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/anu4619/leetcode-solved/tree/master/0070-climbing-stairs) |
 | [0868-push-dominoes](https://github.com/anu4619/leetcode-solved/tree/master/0868-push-dominoes) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anu4619/leetcode-solved/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anu4619/leetcode-solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/anu4619/leetcode-solved/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/anu4619/leetcode-solved/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anu4619/leetcode-solved/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/anu4619/leetcode-solved/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/anu4619/leetcode-solved/tree/master/0268-missing-number) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/anu4619/leetcode-solved/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anu4619/leetcode-solved/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -284,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/anu4619/leetcode-solved/tree/master/1961-maximum-ice-cream-bars) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anu4619/leetcode-solved/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
