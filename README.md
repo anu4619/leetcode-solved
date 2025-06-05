@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/anu4619/leetcode-solved/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/anu4619/leetcode-solved/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/anu4619/leetcode-solved/tree/master/0456-132-pattern) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/anu4619/leetcode-solved/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/anu4619/leetcode-solved/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/anu4619/leetcode-solved/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/anu4619/leetcode-solved/tree/master/0089-gray-code) |
+| [0224-basic-calculator](https://github.com/anu4619/leetcode-solved/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/anu4619/leetcode-solved/tree/master/0268-missing-number) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/anu4619/leetcode-solved/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anu4619/leetcode-solved/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anu4619/leetcode-solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/anu4619/leetcode-solved/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/anu4619/leetcode-solved/tree/master/0058-length-of-last-word) |
+| [0224-basic-calculator](https://github.com/anu4619/leetcode-solved/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/anu4619/leetcode-solved/tree/master/0316-remove-duplicate-letters) |
 | [0868-push-dominoes](https://github.com/anu4619/leetcode-solved/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/anu4619/leetcode-solved/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/anu4619/leetcode-solved/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/anu4619/leetcode-solved/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/anu4619/leetcode-solved/tree/master/0060-permutation-sequence) |
+| [0224-basic-calculator](https://github.com/anu4619/leetcode-solved/tree/master/0224-basic-calculator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
