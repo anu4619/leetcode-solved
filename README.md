@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/anu4619/leetcode-solved/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/anu4619/leetcode-solved/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anu4619/leetcode-solved/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/anu4619/leetcode-solved/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/anu4619/leetcode-solved/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/anu4619/leetcode-solved/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/anu4619/leetcode-solved/tree/master/0268-missing-number) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/anu4619/leetcode-solved/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/anu4619/leetcode-solved/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/anu4619/leetcode-solved/tree/master/0060-permutation-sequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
