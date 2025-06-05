@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/anu4619/leetcode-solved/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/anu4619/leetcode-solved/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/anu4619/leetcode-solved/tree/master/0070-climbing-stairs) |
+| [0233-number-of-digit-one](https://github.com/anu4619/leetcode-solved/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/anu4619/leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
 | [0868-push-dominoes](https://github.com/anu4619/leetcode-solved/tree/master/0868-push-dominoes) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anu4619/leetcode-solved/tree/master/1628-count-submatrices-with-all-ones) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/anu4619/leetcode-solved/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/anu4619/leetcode-solved/tree/master/0089-gray-code) |
 | [0224-basic-calculator](https://github.com/anu4619/leetcode-solved/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/anu4619/leetcode-solved/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/anu4619/leetcode-solved/tree/master/0268-missing-number) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/anu4619/leetcode-solved/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anu4619/leetcode-solved/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/anu4619/leetcode-solved/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/anu4619/leetcode-solved/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/anu4619/leetcode-solved/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/anu4619/leetcode-solved/tree/master/0233-number-of-digit-one) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
