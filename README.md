@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/anu4619/leetcode-solved/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/anu4619/leetcode-solved/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/anu4619/leetcode-solved/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/anu4619/leetcode-solved/tree/master/0282-expression-add-operators) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/anu4619/leetcode-solved/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anu4619/leetcode-solved/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/anu4619/leetcode-solved/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/anu4619/leetcode-solved/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/anu4619/leetcode-solved/tree/master/0058-length-of-last-word) |
 | [0224-basic-calculator](https://github.com/anu4619/leetcode-solved/tree/master/0224-basic-calculator) |
+| [0282-expression-add-operators](https://github.com/anu4619/leetcode-solved/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/anu4619/leetcode-solved/tree/master/0316-remove-duplicate-letters) |
 | [0868-push-dominoes](https://github.com/anu4619/leetcode-solved/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/anu4619/leetcode-solved/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/anu4619/leetcode-solved/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/anu4619/leetcode-solved/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/anu4619/leetcode-solved/tree/master/0089-gray-code) |
+| [0282-expression-add-operators](https://github.com/anu4619/leetcode-solved/tree/master/0282-expression-add-operators) |
 ## Game Theory
 |  |
 | ------- |
