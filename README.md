@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anu4619/leetcode-solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/anu4619/leetcode-solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anu4619/leetcode-solved/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/anu4619/leetcode-solved/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/anu4619/leetcode-solved/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/anu4619/leetcode-solved/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/anu4619/leetcode-solved/tree/master/0051-n-queens) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anu4619/leetcode-solved/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/anu4619/leetcode-solved/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/anu4619/leetcode-solved/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/anu4619/leetcode-solved/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/anu4619/leetcode-solved/tree/master/0233-number-of-digit-one) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anu4619/leetcode-solved/tree/master/0042-trapping-rain-water) |
 | [0224-basic-calculator](https://github.com/anu4619/leetcode-solved/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/anu4619/leetcode-solved/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/anu4619/leetcode-solved/tree/master/0456-132-pattern) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anu4619/leetcode-solved/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/anu4619/leetcode-solved/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/anu4619/leetcode-solved/tree/master/0456-132-pattern) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/anu4619/leetcode-solved/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/anu4619/leetcode-solved/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/anu4619/leetcode-solved/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/anu4619/leetcode-solved/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/anu4619/leetcode-solved/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/anu4619/leetcode-solved/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anu4619/leetcode-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/anu4619/leetcode-solved/tree/master/0287-find-the-duplicate-number) |
