@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/anu4619/leetcode-solved/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/anu4619/leetcode-solved/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3639-zero-array-transformation-i](https://github.com/anu4619/leetcode-solved/tree/master/3639-zero-array-transformation-i) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/anu4619/leetcode-solved/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Dynamic Programming
 |  |
 | ------- |
