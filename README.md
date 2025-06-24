@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/anu4619/leetcode-solved/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anu4619/leetcode-solved/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/anu4619/leetcode-solved/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/anu4619/leetcode-solved/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anu4619/leetcode-solved/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anu4619/leetcode-solved/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/anu4619/leetcode-solved/tree/master/3194-find-words-containing-character) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anu4619/leetcode-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0868-push-dominoes](https://github.com/anu4619/leetcode-solved/tree/master/0868-push-dominoes) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/anu4619/leetcode-solved/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/anu4619/leetcode-solved/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
