@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/anu4619/leetcode-solved/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/anu4619/leetcode-solved/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/anu4619/leetcode-solved/tree/master/0233-number-of-digit-one) |
+| [0264-ugly-number-ii](https://github.com/anu4619/leetcode-solved/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/anu4619/leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
 | [0868-push-dominoes](https://github.com/anu4619/leetcode-solved/tree/master/0868-push-dominoes) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anu4619/leetcode-solved/tree/master/1628-count-submatrices-with-all-ones) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anu4619/leetcode-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anu4619/leetcode-solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/anu4619/leetcode-solved/tree/master/0073-set-matrix-zeroes) |
+| [0264-ugly-number-ii](https://github.com/anu4619/leetcode-solved/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/anu4619/leetcode-solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anu4619/leetcode-solved/tree/master/0349-intersection-of-two-arrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anu4619/leetcode-solved/tree/master/2215-finding-3-digit-even-numbers) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anu4619/leetcode-solved/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/anu4619/leetcode-solved/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/anu4619/leetcode-solved/tree/master/0233-number-of-digit-one) |
+| [0264-ugly-number-ii](https://github.com/anu4619/leetcode-solved/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/anu4619/leetcode-solved/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/anu4619/leetcode-solved/tree/master/0282-expression-add-operators) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/anu4619/leetcode-solved/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/anu4619/leetcode-solved/tree/master/0218-the-skyline-problem) |
+| [0264-ugly-number-ii](https://github.com/anu4619/leetcode-solved/tree/master/0264-ugly-number-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anu4619/leetcode-solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1397-search-suggestions-system](https://github.com/anu4619/leetcode-solved/tree/master/1397-search-suggestions-system) |
 ## Segment Tree
