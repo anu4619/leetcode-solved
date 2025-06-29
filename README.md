@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/anu4619/leetcode-solved/tree/master/1397-search-suggestions-system) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anu4619/leetcode-solved/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anu4619/leetcode-solved/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/anu4619/leetcode-solved/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anu4619/leetcode-solved/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anu4619/leetcode-solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/anu4619/leetcode-solved/tree/master/1961-maximum-ice-cream-bars) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/anu4619/leetcode-solved/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1397-search-suggestions-system](https://github.com/anu4619/leetcode-solved/tree/master/1397-search-suggestions-system) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anu4619/leetcode-solved/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/anu4619/leetcode-solved/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Ordered Set
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anu4619/leetcode-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anu4619/leetcode-solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1397-search-suggestions-system](https://github.com/anu4619/leetcode-solved/tree/master/1397-search-suggestions-system) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/anu4619/leetcode-solved/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1961-maximum-ice-cream-bars](https://github.com/anu4619/leetcode-solved/tree/master/1961-maximum-ice-cream-bars) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anu4619/leetcode-solved/tree/master/2215-finding-3-digit-even-numbers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/anu4619/leetcode-solved/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anu4619/leetcode-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0868-push-dominoes](https://github.com/anu4619/leetcode-solved/tree/master/0868-push-dominoes) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/anu4619/leetcode-solved/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/anu4619/leetcode-solved/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/anu4619/leetcode-solved/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Backtracking
 |  |
