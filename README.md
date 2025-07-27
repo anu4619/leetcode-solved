@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/anu4619/leetcode-solved/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/anu4619/leetcode-solved/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/anu4619/leetcode-solved/tree/master/0196-delete-duplicate-emails) |
+| [0262-trips-and-users](https://github.com/anu4619/leetcode-solved/tree/master/0262-trips-and-users) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/anu4619/leetcode-solved/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/anu4619/leetcode-solved/tree/master/0577-employee-bonus) |
 | [1179-game-play-analysis-i](https://github.com/anu4619/leetcode-solved/tree/master/1179-game-play-analysis-i) |
