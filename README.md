@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/anu4619/leetcode-solved/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/anu4619/leetcode-solved/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anu4619/leetcode-solved/tree/master/2215-finding-3-digit-even-numbers) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anu4619/leetcode-solved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/anu4619/leetcode-solved/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/anu4619/leetcode-solved/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anu4619/leetcode-solved/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-search-suggestions-system](https://github.com/anu4619/leetcode-solved/tree/master/1397-search-suggestions-system) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anu4619/leetcode-solved/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/anu4619/leetcode-solved/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anu4619/leetcode-solved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Ordered Set
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anu4619/leetcode-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/anu4619/leetcode-solved/tree/master/0209-minimum-size-subarray-sum) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anu4619/leetcode-solved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/anu4619/leetcode-solved/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Simulation
 |  |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anu4619/leetcode-solved/tree/master/0209-minimum-size-subarray-sum) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anu4619/leetcode-solved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3639-zero-array-transformation-i](https://github.com/anu4619/leetcode-solved/tree/master/3639-zero-array-transformation-i) |
 ## Counting Sort
 |  |
