@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/anu4619/leetcode-solved/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/anu4619/leetcode-solved/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/anu4619/leetcode-solved/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/anu4619/leetcode-solved/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/anu4619/leetcode-solved/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/anu4619/leetcode-solved/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/anu4619/leetcode-solved/tree/master/0268-missing-number) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/anu4619/leetcode-solved/tree/master/0089-gray-code) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/anu4619/leetcode-solved/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/anu4619/leetcode-solved/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anu4619/leetcode-solved/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/anu4619/leetcode-solved/tree/master/0287-find-the-duplicate-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anu4619/leetcode-solved/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/anu4619/leetcode-solved/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/anu4619/leetcode-solved/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/anu4619/leetcode-solved/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/anu4619/leetcode-solved/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/anu4619/leetcode-solved/tree/master/0233-number-of-digit-one) |
 ## Heap (Priority Queue)
 |  |
