@@ -401,4 +401,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/anu4619/leetcode-solved/tree/master/0595-big-countries) |
 | [0608-tree-node](https://github.com/anu4619/leetcode-solved/tree/master/0608-tree-node) |
 | [1179-game-play-analysis-i](https://github.com/anu4619/leetcode-solved/tree/master/1179-game-play-analysis-i) |
+| [1182-game-play-analysis-iv](https://github.com/anu4619/leetcode-solved/tree/master/1182-game-play-analysis-iv) |
 <!---LeetCode Topics End-->
