@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anu4619/leetcode-solved/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/anu4619/leetcode-solved/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/anu4619/leetcode-solved/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/anu4619/leetcode-solved/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/anu4619/leetcode-solved/tree/master/0118-pascals-triangle) |
 | [0233-number-of-digit-one](https://github.com/anu4619/leetcode-solved/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/anu4619/leetcode-solved/tree/master/0264-ugly-number-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anu4619/leetcode-solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/anu4619/leetcode-solved/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/anu4619/leetcode-solved/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/anu4619/leetcode-solved/tree/master/0072-edit-distance) |
 | [0224-basic-calculator](https://github.com/anu4619/leetcode-solved/tree/master/0224-basic-calculator) |
 | [0282-expression-add-operators](https://github.com/anu4619/leetcode-solved/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/anu4619/leetcode-solved/tree/master/0316-remove-duplicate-letters) |
