@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/anu4619/leetcode-solved/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/anu4619/leetcode-solved/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/anu4619/leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/anu4619/leetcode-solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0868-push-dominoes](https://github.com/anu4619/leetcode-solved/tree/master/0868-push-dominoes) |
 | [1250-longest-common-subsequence](https://github.com/anu4619/leetcode-solved/tree/master/1250-longest-common-subsequence) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anu4619/leetcode-solved/tree/master/1628-count-submatrices-with-all-ones) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/anu4619/leetcode-solved/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/anu4619/leetcode-solved/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/anu4619/leetcode-solved/tree/master/0409-longest-palindrome) |
+| [0516-longest-palindromic-subsequence](https://github.com/anu4619/leetcode-solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0868-push-dominoes](https://github.com/anu4619/leetcode-solved/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/anu4619/leetcode-solved/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/anu4619/leetcode-solved/tree/master/1159-smallest-subsequence-of-distinct-characters) |
