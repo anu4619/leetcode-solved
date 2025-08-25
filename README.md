@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anu4619/leetcode-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/anu4619/leetcode-solved/tree/master/0409-longest-palindrome) |
 | [0940-fruit-into-baskets](https://github.com/anu4619/leetcode-solved/tree/master/0940-fruit-into-baskets) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anu4619/leetcode-solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anu4619/leetcode-solved/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/anu4619/leetcode-solved/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anu4619/leetcode-solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/anu4619/leetcode-solved/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1250-longest-common-subsequence](https://github.com/anu4619/leetcode-solved/tree/master/1250-longest-common-subsequence) |
 | [1397-search-suggestions-system](https://github.com/anu4619/leetcode-solved/tree/master/1397-search-suggestions-system) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anu4619/leetcode-solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/anu4619/leetcode-solved/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/anu4619/leetcode-solved/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anu4619/leetcode-solved/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/anu4619/leetcode-solved/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/anu4619/leetcode-solved/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anu4619/leetcode-solved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/anu4619/leetcode-solved/tree/master/3630-total-characters-in-string-after-transformations-ii) |
