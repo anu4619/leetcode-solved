@@ -425,4 +425,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-game-play-analysis-i](https://github.com/anu4619/leetcode-solved/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/anu4619/leetcode-solved/tree/master/1182-game-play-analysis-iv) |
 | [1877-find-followers-count](https://github.com/anu4619/leetcode-solved/tree/master/1877-find-followers-count) |
+| [1908-recyclable-and-low-fat-products](https://github.com/anu4619/leetcode-solved/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
