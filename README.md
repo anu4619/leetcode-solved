@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/anu4619/leetcode-solved/tree/master/0456-132-pattern) |
 | [0724-find-pivot-index](https://github.com/anu4619/leetcode-solved/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/anu4619/leetcode-solved/tree/master/0729-my-calendar-i) |
+| [0747-min-cost-climbing-stairs](https://github.com/anu4619/leetcode-solved/tree/master/0747-min-cost-climbing-stairs) |
 | [0859-design-circular-deque](https://github.com/anu4619/leetcode-solved/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/anu4619/leetcode-solved/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/anu4619/leetcode-solved/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/anu4619/leetcode-solved/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/anu4619/leetcode-solved/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/anu4619/leetcode-solved/tree/master/0516-longest-palindromic-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/anu4619/leetcode-solved/tree/master/0747-min-cost-climbing-stairs) |
 | [0868-push-dominoes](https://github.com/anu4619/leetcode-solved/tree/master/0868-push-dominoes) |
 | [1250-longest-common-subsequence](https://github.com/anu4619/leetcode-solved/tree/master/1250-longest-common-subsequence) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anu4619/leetcode-solved/tree/master/1628-count-submatrices-with-all-ones) |
