@@ -1,33 +1,31 @@
 class Solution {
-public:
-    vector<string> letterCombinations(string digits) {
-        if (digits.empty()) return {};
-
-        vector<string> phone = {
-            "",     "",     "abc", "def", "ghi", 
-            "jkl", "mno", "pqrs", "tuv", "wxyz"
-        };
-
-        vector<string> result;
-        string current;
-        backtrack(digits, 0, phone, current, result);
-        return result;
-    }
-
-private:
-    void backtrack(const string& digits, int index, const vector<string>& phone, 
-                   string& current, vector<string>& result) {
-        if (index == digits.size()) {
-            result.push_back(current);
+    public:
+    void backtrack(vector<string>& ans,string mapping[],int index,string output, string digits){
+        if(index>=digits.length())
+        {
+            ans.push_back(output);
             return;
         }
 
-        int digit = digits[index] - '0';
-        for (char ch : phone[digit]) {
-            current.push_back(ch);
-            backtrack(digits, index + 1, phone, current, result);
-            current.pop_back();  // backtrack
+        int number=digits[index]-'0';
+        string value=mapping[number];
+        for(int i=0;i<value.length();i++)
+        {
+            output.push_back(value[i]);
+            backtrack(ans,mapping,index+1,output,digits);
+            output.pop_back();
         }
-    }  
-    
+    }
+public:
+    vector<string> letterCombinations(string digits) {
+        vector<string> ans;
+        if(digits.length()==0){
+            return ans;
+        }
+        string mapping[10]={"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
+        int index=0;
+        string output="";
+        backtrack(ans,mapping,index,output,digits);
+        return ans;
+    }
 };
