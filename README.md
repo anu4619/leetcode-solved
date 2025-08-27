@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/anu4619/leetcode-solved/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anu4619/leetcode-solved/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/anu4619/leetcode-solved/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/anu4619/leetcode-solved/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anu4619/leetcode-solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/anu4619/leetcode-solved/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anu4619/leetcode-solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/anu4619/leetcode-solved/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/anu4619/leetcode-solved/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/anu4619/leetcode-solved/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/anu4619/leetcode-solved/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/anu4619/leetcode-solved/tree/master/0089-gray-code) |
 | [0282-expression-add-operators](https://github.com/anu4619/leetcode-solved/tree/master/0282-expression-add-operators) |
 ## Game Theory
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anu4619/leetcode-solved/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/anu4619/leetcode-solved/tree/master/0089-gray-code) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/anu4619/leetcode-solved/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/anu4619/leetcode-solved/tree/master/0231-power-of-two) |
