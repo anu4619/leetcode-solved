@@ -5,4 +5,4 @@ from prices p
 left join unitssold u
 on p.product_id=u.product_id
 and u.purchase_date BETWEEN p.start_date AND p.end_date
-group by product_id
+group by p.product_id
