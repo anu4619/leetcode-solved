@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/anu4619/leetcode-solved/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/anu4619/leetcode-solved/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/anu4619/leetcode-solved/tree/master/0940-fruit-into-baskets) |
+| [1025-minimum-cost-for-tickets](https://github.com/anu4619/leetcode-solved/tree/master/1025-minimum-cost-for-tickets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/anu4619/leetcode-solved/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1397-search-suggestions-system](https://github.com/anu4619/leetcode-solved/tree/master/1397-search-suggestions-system) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/anu4619/leetcode-solved/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/anu4619/leetcode-solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/anu4619/leetcode-solved/tree/master/0747-min-cost-climbing-stairs) |
 | [0868-push-dominoes](https://github.com/anu4619/leetcode-solved/tree/master/0868-push-dominoes) |
+| [1025-minimum-cost-for-tickets](https://github.com/anu4619/leetcode-solved/tree/master/1025-minimum-cost-for-tickets) |
 | [1250-longest-common-subsequence](https://github.com/anu4619/leetcode-solved/tree/master/1250-longest-common-subsequence) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anu4619/leetcode-solved/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/anu4619/leetcode-solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
