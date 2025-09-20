@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/anu4619/leetcode-solved/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anu4619/leetcode-solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/anu4619/leetcode-solved/tree/master/0456-132-pattern) |
+| [0643-maximum-average-subarray-i](https://github.com/anu4619/leetcode-solved/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/anu4619/leetcode-solved/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/anu4619/leetcode-solved/tree/master/0729-my-calendar-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/anu4619/leetcode-solved/tree/master/0747-min-cost-climbing-stairs) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anu4619/leetcode-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/anu4619/leetcode-solved/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/anu4619/leetcode-solved/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/anu4619/leetcode-solved/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anu4619/leetcode-solved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/anu4619/leetcode-solved/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
