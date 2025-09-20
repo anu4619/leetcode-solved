@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/anu4619/leetcode-solved/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anu4619/leetcode-solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/anu4619/leetcode-solved/tree/master/0456-132-pattern) |
+| [0485-max-consecutive-ones](https://github.com/anu4619/leetcode-solved/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/anu4619/leetcode-solved/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/anu4619/leetcode-solved/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/anu4619/leetcode-solved/tree/master/0729-my-calendar-i) |
